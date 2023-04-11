@@ -21,5 +21,5 @@ Create a script that loops through all the stocks for one year and outputs the f
 - Make sure that the script acts the same on every sheet. The joy of VBA is that it takes the tediousness out of repetitive tasks with the click of a button.
 
 # Note [^1].
-[^1]: The VBA code is in the next document: 
+[^1]: The VBA code is in the "alphabetical_testing_Solved" file.
 
