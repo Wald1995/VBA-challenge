@@ -20,6 +20,12 @@ Create a script that loops through all the stocks for one year and outputs the f
 - Use the sheet alphabetical_testing.xlsx while developing your code. This dataset is smaller and will allow you to test faster. Your code should run on this file in under 3 to 5 minutes.
 - Make sure that the script acts the same on every sheet. The joy of VBA is that it takes the tediousness out of repetitive tasks with the click of a button.
 
+#GitHub/GitLab Submission (15 points)
+All three of the following are uploaded to GitHub/GitLab:
+- Screenshots of the results
+- Separate VBA script files. 
+- README file 
+
 # Note [^1].
-[^1]: The VBA code is in the "alphabetical_testing_Solved" file.
+[^1]: I tried several times to upload my code separately and I got an error, I did not know why, so the code can be found in the excel file "alphabetical_testing_Solved".
 
