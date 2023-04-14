@@ -26,6 +26,4 @@ All three of the following are uploaded to GitHub/GitLab:
 - Separate VBA script files. 
 - README file 
 
-# Note [^1].
-[^1]: I tried several times to upload my code separately and I got an error, I did not know why, so the code can be found in the excel file "alphabetical_testing_Solved".
 
